@@ -1,0 +1,14 @@
+# 키 파일
+.env
+node_modules/
+.next/
+.vercel/
+.superpowers/
+.vercel
+.DS_Store
+
+# Next.js / TypeScript 생성 파일
+/out/
+*.tsbuildinfo
+next-env.d.ts
+
